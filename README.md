@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zoha (❁´◡`❁)</h1>
+<h1 align="left">Hey, I'm Zoha (❁´◡`❁)</h1>
 <h3 align="center">A Computer Science Student currently attending FIU</h3>
 
 - ⋆˚꩜｡ I’m currently working on **my personal portfolio website ｡꩜˚⋆**
