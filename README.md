@@ -10,7 +10,7 @@
 
 - ✩₊˚ I’m currently learning **SQL, C++, and R**
 
-- (｡･∀･)ﾉﾞ✧ How to reach me: *zkhan032@fiu.edu*
+- (｡･∀･)ﾉﾞ✧ How to reach me -> *zkhan032@fiu.edu*
 
 - *ੈ✩‧₊˚ Fun fact: *I broke my elbow 3 times lol*
   
