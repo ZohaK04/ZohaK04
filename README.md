@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 600; color: #1e88e5;">
-<em>Hey, I'm Zoha (❁´◡`❁)</em>
+<em>Hey, I'm Zoha ʕ•̀ω•́ʔ✧</em>
 </h1>
 
 <h3 align="center" style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 400; color: #4a4a4a;">
@@ -8,11 +8,11 @@
 
 - ⋆˚꩜｡ I’m currently working on *my personal portfolio website ｡꩜˚⋆*
 
-- 🌱 I’m currently learning *SQL, C++, and R*
+- ✩₊˚ I’m currently learning *SQL, C++, and R*
 
-- 📫 How to reach me *zkhan032@fiu.edu*
+- (｡･∀･)ﾉﾞ✧ How to reach me: *zkhan032@fiu.edu*
 
-- *ੈ✩‧₊˚ Fun fact *I broke my elbow 3 times lol*
+- *ੈ✩‧₊˚ Fun fact: *I broke my elbow 3 times lol*
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
