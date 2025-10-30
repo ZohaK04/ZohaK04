@@ -1,14 +1,14 @@
-<h1 align="left">Hey, I'm Zoha (❁´◡`❁)</h1>
-<h3 align="center">A Computer Science Student currently attending FIU</h3>
+<h1 align="left"><em>Hey, I'm Zoha (❁´◡`❁)</em></h1>
+<h3 align="left"><em>⊹⊱✿⊰⊹A Computer Science Student currently attending FIU⊹⊱✿⊰⊹</em></h3>
 
-- ⋆˚꩜｡ I’m currently working on **my personal portfolio website ｡꩜˚⋆**
+- ⋆˚꩜｡ I’m currently working on *my personal portfolio website ｡꩜˚⋆*
 
-- 🌱 I’m currently learning **SQL, C++, and R**
+- 🌱 I’m currently learning *SQL, C++, and R*
 
-- 📫 How to reach me **zkhan032@fiu.edu**
+- 📫 How to reach me *zkhan032@fiu.edu*
 
-- *ੈ✩‧₊˚ Fun fact **I broke my elbow 3 times lol**
-
+- *ੈ✩‧₊˚ Fun fact *I broke my elbow 3 times lol*
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zoha576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoha576" height="30" width="40" /></a>
