@@ -1,5 +1,10 @@
-<h1 align="left"><em>Hey, I'm Zoha (❁´◡`❁)</em></h1>
-<h3 align="left"><em>⊹⊱✿⊰⊹A Computer Science Student currently attending FIU⊹⊱✿⊰⊹</em></h3>
+<h1 align="center" style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 600; color: #1e88e5;">
+<em>Hey, I'm Zoha (❁´◡`❁)</em>
+</h1>
+
+<h3 align="center" style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 400; color: #4a4a4a;">
+⊹⊱✿⊰⊹ <em>A Computer Science Student currently attending FIU</em> ⊹⊱✿⊰⊹
+</h3>
 
 - ⋆˚꩜｡ I’m currently working on *my personal portfolio website ｡꩜˚⋆*
 
